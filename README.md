@@ -18,6 +18,11 @@ The dataset used in this project contains the following features:
 
 The target variable is the price of the house.
 
+## Source
+The dataset can be downloaded from below link.
+
+Dataset: https://drive.google.com/file/d/1yrVwfX1LjISQ6vdR1Kaht-S1_8y2Gk6z/view?usp=sharing
+
 ## Techniques Used
 - Linear Regression: Utilizing the linear regression algorithm to establish a relationship between the independent variables (features) and the dependent variable (house price).
 - Data Preprocessing: Cleaning the dataset, handling missing values, encoding categorical variables, and scaling numerical features.
